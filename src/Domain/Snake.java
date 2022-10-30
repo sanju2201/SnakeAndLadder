@@ -5,7 +5,7 @@ public class Snake {
     int headPosition;
     int tailPosition;
 
-    Snake(int headPosition, int tailPosition){
+    public Snake(int headPosition, int tailPosition){
         this.headPosition = headPosition;
         this.tailPosition = tailPosition;
 

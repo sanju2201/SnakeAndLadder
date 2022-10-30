@@ -16,4 +16,16 @@ public class Board {
         this.numberOfLadder = numberOfLadder;
         this.numberOfPlayers = numberOfPlayers;
     }
+
+    // step 8 before calling list create getter setter on board class
+public void setSnakeList(List<Snake> snakeList){
+        this.snakeList = snakeList;
+}
+public void setLadderList(List<Ladder> ladderList){
+        this.ladderList= ladderList;
+}
+
+    public int getTotalCells() {
+        return totalCells;
+    }
 }
