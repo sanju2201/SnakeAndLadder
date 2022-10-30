@@ -6,7 +6,7 @@ import Domain.Player;
 import Domain.Snake;
 
 import java.util.*;
-import java.util.List;
+
 
 public class SnakeLadder {
 
