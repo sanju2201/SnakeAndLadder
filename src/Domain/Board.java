@@ -28,4 +28,12 @@ public void setLadderList(List<Ladder> ladderList){
     public int getTotalCells() {
         return totalCells;
     }
+
+    public List<Snake> getSnakeList() {
+        return snakeList;
+    }
+
+    public List<Ladder> getLadderList() {
+        return ladderList;
+    }
 }

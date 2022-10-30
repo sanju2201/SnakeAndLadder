@@ -9,6 +9,11 @@ public class Ladder {
         this.endPosition = endPosition;
     }
 
+    public int getStartPosition() {
+        return startPosition;
+    }
 
-
+    public int getEndPosition() {
+        return endPosition;
+    }
 }

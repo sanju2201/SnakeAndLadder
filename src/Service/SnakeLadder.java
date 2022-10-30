@@ -16,7 +16,7 @@ public class SnakeLadder {
         int totalCells = sc.nextInt();
         int totalSnakes = 9;
         int totalLadder = 6;
-        int totalPlayer = sc.nextInt();
+        int totalPlayer = 2;
 
 
         Board board = new Board(totalCells,totalSnakes,totalLadder,totalPlayer);

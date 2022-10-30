@@ -10,4 +10,12 @@ public class Snake {
         this.tailPosition = tailPosition;
 
     }
+
+    public int getHeadPosition() {
+        return headPosition;
+    }
+
+    public int getTailPosition() {
+        return tailPosition;
+    }
 }

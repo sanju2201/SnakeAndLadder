@@ -4,6 +4,8 @@
     <list default="true" id="a90ab685-dea8-4181-a8a6-e835e175b762" name="Changes" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Domain/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Ladder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Domain/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Snake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Service/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/GameService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Service/SnakeLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/SnakeLadder.java" afterDir="false" />
@@ -25,6 +27,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Domain/Player.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Service/GameService.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,6 +46,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="SnakeLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Service.SnakeLadder" />
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SnakeLadder" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667071527946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1667129843637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667129843637</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
